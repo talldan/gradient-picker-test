@@ -1,0 +1,2 @@
+- Run `npm install` to install dependencies
+- Run `npx parcel src/index.html` to build and develop.
